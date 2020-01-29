@@ -37,3 +37,7 @@ chosen filename will then be written to the current directory. If you fail to pr
 issue and prompt the user to try again. Otherwise it will inform the user of the successful file creation after outputting the translated version to console.
 
 Option 3: shuts down the application.
+
+Screenshot
+
+![image](https://user-images.githubusercontent.com/60437881/73387607-b4a7a700-42c8-11ea-8ebe-6de0d47f4abe.png)
